@@ -6,8 +6,7 @@ os.system("clear")
 os.system("figlet UCPM")
 print("1. Neofetch")
 print("2. Htop")
-print("3. Unic0de ID")
-print("4. Terminal")
+print("3. Terminal")
 opt = input ()
 if opt == ('1'):
     os.system("clear")
@@ -19,6 +18,4 @@ if opt == ('1'):
 if opt == ('2'):
     os.system("htop")
     os.system("python mobiletest.py")
-if opt == ('3'):
-    os.system("./unic0deid")
-    os.system("python mobiletest.py")
+  
