@@ -12,5 +12,5 @@ Make the files executable.
 Then, modify ucp.py as you please. When done, execute install.sh
 ```./install.sh```
 After installation, edit your bashrc or zshrc and put ```ucp``` at the very bottom.
-# Installation Guice (Termux/Android)
+# Installation Guide (Termux/Android)
 Coming Soon.
