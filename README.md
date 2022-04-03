@@ -8,7 +8,7 @@ Figlet, Neofetch, Python and Htop.
 # Installation Guide (PC)
 Make the files executable.
 ```chmod +x ucp.py```
-```chmod +x install.sh```
+```chmod +x installpc.sh```
 Then, modify ucp.py as you please. When done, execute install.sh
 ```./install.sh```
 After installation, edit your bashrc or zshrc and put ```ucp``` at the very bottom.
