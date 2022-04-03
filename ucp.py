@@ -20,4 +20,11 @@ if opt == ('2'):
     os.system("htop")
     os.execv(sys.executable, ['python'] + sys.argv)
 if opt == ('3'):
-    os.system("reboot")
+    print("Are you sure you want to reboot? y/n")
+    rebootconf = input ()
+    if rebootconf == ('y')
+        os.system("reboot")
+    if rebootconf == ('n')
+        os.execv(sys.executable, ['python'] + sys.argv)
+    else == print("invalid option")
+        os.execv(sys.executable, ['python'] + sys.argv)
