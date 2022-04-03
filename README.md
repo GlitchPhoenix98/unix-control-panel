@@ -6,8 +6,7 @@ This program was made to be light and customizable, feel free to edit it to your
 # Requirements (Default)
 Figlet, Neofetch, Python and Htop.
 # Installation Guide (PC)
-Make the files executable.
-```chmod +x ucp.py```
+Make the installation script executable.
 ```chmod +x installpc.sh```
 Then, modify ucp.py as you please. When done, execute install.sh
 ```./install.sh```
