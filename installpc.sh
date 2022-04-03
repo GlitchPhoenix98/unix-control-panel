@@ -1,2 +1,2 @@
 # This is an installation script.
-cp ucp.py /usr/local/ucp.py
+cp ucp.py /usr/local/bin/ucp
