@@ -15,9 +15,9 @@ if opt == ('1'):
     time.sleep(3)
     os.system("clear")
     time.sleep(0.5)
-    os.system("python test.py")
+    os.execv(sys.executable, ['python'] + sys.argv)
 if opt == ('2'):
     os.system("htop")
-    os.system("python test.py")
+    os.execv(sys.executable, ['python'] + sys.argv)
 if opt == ('3'):
     os.system("reboot")
