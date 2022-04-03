@@ -22,9 +22,7 @@ if opt == ('2'):
 if opt == ('3'):
     print("Are you sure you want to reboot? y/n")
     rebootconf = input ()
-    if rebootconf == ('y')
+    if rebootconf == ('y'):
         os.system("reboot")
-    if rebootconf == ('n')
-        os.execv(sys.executable, ['python'] + sys.argv)
-    else == print("invalid option")
+    if rebootconf == ('n'):
         os.execv(sys.executable, ['python'] + sys.argv)
