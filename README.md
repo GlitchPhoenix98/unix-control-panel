@@ -1,4 +1,4 @@
-# unix-control-panel
+# unix-control-panel-easy
 What is this? It's a control panel to quickly do things in the terminal.
 How to do I use it, you ask?
 Well, you put the command you use to run it at the bottom of your bashrc or zshrc.
