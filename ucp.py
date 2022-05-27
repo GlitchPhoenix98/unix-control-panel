@@ -4,7 +4,7 @@ import time
 import sys
 sys.tracebacklimit = 0
 os.system("clear")
-os.system("figlet UCP")
+print("Unix Control Panel")
 print("1. Neofetch")
 print("2. Htop")
 print("3. Reboot")
