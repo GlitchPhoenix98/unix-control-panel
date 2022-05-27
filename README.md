@@ -3,6 +3,8 @@ What is this? It's a control panel to quickly do things in the terminal.
 How to do I use it, you ask?
 Well, you put the command you use to run it at the bottom of your bashrc or zshrc.
 This program was made to be light and customizable, feel free to edit it to your liking.
+If you prefer to use C, feel free to download the C version of this, as it is more lightweight (although very very buggy atm): <br>
+https://github.com/GlitchPhoenix98/unix-control-panel-C
 # Requirements (Default)
 Figlet, Neofetch, Python and Htop.
 # Installation Guide (PC)
